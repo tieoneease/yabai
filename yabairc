@@ -3,7 +3,7 @@
 # ====== Variables =============================
 
 gaps_top="4"
-gaps_bottom="24"
+gaps_bottom="4"
 gaps_left="4"
 gaps_right="4"
 gaps_inner="4"
