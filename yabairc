@@ -17,7 +17,8 @@ preselect_border_color="2d74da"
 
 # ====== Status Bar Settings =========================
 
-yabai -m config external_bar all:$SPACEBAR_HEIGHT:0
+#yabai -m config external_bar all:$SPACEBAR_HEIGHT:0
+yabai -m config external_bar all:26:0
 
 # ====== Tiling settings =======================
 
